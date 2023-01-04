@@ -1,13 +1,13 @@
 import React from 'react';
 import './App.css';
-import img01 from './assets/images/img01.png';
-import img02 from './assets/images/img02.gif';
-import img03 from './assets/images/img03.jpg';
-import img04 from './assets/images/img04.png';
-import img05 from './assets/images/img05.gif';
-import img06 from './assets/images/img06.jpg';
-import img07 from './assets/images/img07.png';
-import img08 from './assets/images/img08.png';
+import img01 from '../public/assets/images/png/img01.png';
+import img02 from '../public/assets/images/gif/img02.gif';
+import img03 from '../public/assets/images/jpg/img03.jpg';
+import img04 from '../public/assets/images/png/img04.png';
+import img05 from '../public/assets/images/gif/img05.gif';
+import img06 from '../public/assets/images/jpg/img06.jpg';
+import img07 from '../public/assets/images/png/img07.png';
+import img08 from '../public/assets/images/png/img08.png';
 
 class App extends React.Component {
   render() {
